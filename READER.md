@@ -28,4 +28,8 @@ pull 一下
 
 
 
+<<<<<<< HEAD
 我是master
+=======
+我是dev
+>>>>>>> dev
